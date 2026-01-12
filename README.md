@@ -51,8 +51,6 @@ An interactive AI-powered chatbot that helps users live more sustainably with da
 - `app.py` - FastAPI routes and endpoints
 - `rag.py` - RAG system with LangChain
 - `database.py` - SQLite database management
-- `chatbot.py` - Chatbot logic (extensible)
-- `models.py` - Data models
 
 ## 📋 Setup Instructions
 
